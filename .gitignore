@@ -1,0 +1,7 @@
+.env
+.vercel/
+node_modules/
+# Niezamazane zrzuty (Twoj e-mail, nazwa konta) - tylko lokalnie
+zrzuty/oryginaly/
+zrzuty/ZLECENIE-AGENTA.md
+zrzuty/UWAGI-Z-REJESTRACJI.md
